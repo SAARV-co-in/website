@@ -1,0 +1,7 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="110" cy="110" r="100" fill="#e3f2fd"/>
+  <circle cx="110" cy="110" r="70" fill="#43a047"/>
+  <text x="110" y="70" text-anchor="middle" font-size="18" font-family="Inter, Arial" font-weight="bold" fill="#fff">Sustainability</text>
+  <text x="110" y="115" text-anchor="middle" font-size="18" font-family="Inter, Arial" font-weight="bold" fill="#1976d2">Flexibility</text>
+  <text x="110" y="160" text-anchor="middle" font-size="18" font-family="Inter, Arial" font-weight="bold" fill="#fff">Growth</text>
+</svg>

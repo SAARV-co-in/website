@@ -1,0 +1,11 @@
+<svg width="340" height="220" viewBox="0 0 340 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="340" height="220" rx="32" fill="#e3f2fd"/>
+  <g>
+    <circle cx="70" cy="110" r="38" fill="#43a047"/>
+    <rect x="120" y="80" width="60" height="80" rx="16" fill="#1976d2"/>
+    <ellipse cx="230" cy="120" rx="32" ry="40" fill="#fff" stroke="#1976d2" stroke-width="4"/>
+    <text x="70" y="115" text-anchor="middle" font-size="18" font-family="Inter, Arial" font-weight="bold" fill="#fff">Owner</text>
+    <text x="150" y="125" text-anchor="middle" font-size="16" font-family="Inter, Arial" font-weight="bold" fill="#fff">Team</text>
+    <text x="230" y="125" text-anchor="middle" font-size="16" font-family="Inter, Arial" font-weight="bold" fill="#1976d2">Growth</text>
+  </g>
+</svg>
